@@ -9,7 +9,7 @@ Get your Account SID and Auth Token from the Twilio Console.
 Buy a Twilio phone number that supports SMS.
 Put it in the code section of #twilio
 
-Gmail SMTP Setup for Sending Emails
+2. Gmail SMTP Setup for Sending Emails
 To send email alerts:
 Enable 2-Step Verification on your Google account.
 Go to https://myaccount.google.com/apppasswords
