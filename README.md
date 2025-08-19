@@ -1,5 +1,6 @@
 # Vision-Based-Monitoring-System
 Built a surveillsnce system that detects cell phone usage in real time using Deep Learning(CNN) model MobileNet SSD. Implemented messaging and email alerts . Detection of distance as well as sound on capturing and the distance as well as the time is logged in the database.
+This project uses XAMPP to run a local server and manage the database with phpMyAdmin.
 #  Setup Instructions
 1. Twilio Account Setup
 To send SMS notifications:
