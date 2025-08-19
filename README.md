@@ -4,14 +4,13 @@ Built a surveillsnce system that detects cell phone usage in real time using Dee
 1. Twilio Account Setup
 To send SMS notifications:
 Go to https://www.twilio.com/try-twilio and create a free account.
-After verifying your email and phone:
-Get your Account SID and Auth Token from the Twilio Console.
-Buy a Twilio phone number that supports SMS.
+After verifying email and phone:
+Get the Account SID, Twilio number and Auth Token from the Twilio Console.
 Put it in the code section of #twilio
 
-2. Gmail SMTP Setup for Sending Emails
+3. Gmail SMTP Setup for Sending Emails
 To send email alerts:
-Enable 2-Step Verification on your Google account.
+Enable 2-Step Verification on the Google account.
 Go to https://myaccount.google.com/apppasswords
 Generate a new App Password for "Mail" and copy it.
 Put it in the code section of #mail
